@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CocktailApp</string>
+    <string name="greeting">Greetings</string>
+    <string name="settings">Mystery</string>
+    <string name="searchButton">Search</string>
+    <string name="searchByName">Search by name</string>
+    <string name="searchByIngredient">Search by ingredient </string>
+    <string name="random">Random drink</string>
+    <string name="searchText">Insert searchable item</string>
+    <string name="showAllDrinks">Show all alcoholic drinks</string>
+    <string name="showAllIngredients">Show all ingredients</string>
+    <string name="results">Waiting for search</string>
+    <string name="counterTextView">None here</string>
+    <string name="buttonCounter">Click me</string>
+    <string name="backToMain">Back</string>
+</resources>

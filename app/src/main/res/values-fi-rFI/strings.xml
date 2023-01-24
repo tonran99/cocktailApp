@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CocktailApi</string>
+    <string name="greeting">Terve</string>
+    <string name="settings">Mysteeri</string>
+    <string name="searchButton">Etsi</string>
+    <string name="searchByName">Etsi nimellä</string>
+    <string name="searchByIngredient">Etsi aineosalla</string>
+    <string name="random">Satunnainen juoma</string>
+    <string name="searchText">Etsi ainesosa</string>
+    <string name="showAllDrinks">Näytä kaikki alkoholliset juomat</string>
+    <string name="showAllIngredients">Näytä kaikki ainesosat</string>
+    <string name="results">Odotellaan tuloksia</string>
+    <string name="counterTextView">Eipä mitään täällä</string>
+    <string name="buttonCounter">Paina minua</string>
+    <string name="backToMain">Takaisin</string>
+</resources>
